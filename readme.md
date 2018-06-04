@@ -1,5 +1,4 @@
 
-
 --------------------------------------
 # PROYECTO: RETO UX 2
 
@@ -25,29 +24,13 @@ Laboratoria Mexico 2018
 
  Hay ideas de negocio que nacen como oportunidades desde el principio, porque no proceden de la experiencia personal de un individuo, sino de la observación de un problema común a un colectivo. Como hay muchas personas que tienen este problema, hay potencialmente un mercado para una solución. Si esa es factible y económica, entonces nace una oportunidad de negocio.
 
- -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
- **INSIGHTS**
 
 El dia domingo 3 de junio de 2018 se acudió a hacer una entrevista casual a los miembros de la congregacion Cristiana Semilla de Mostaza ubicada en: Avenida San Antonio 13, Carola, San Pedro de los Pinos C.P. 01180 Ciudad de México, se recibieron valiosos insights por parte de los integrantes de dicha congregación quienes manifiestan la necesidad de encontrar música cristiana de moda y de calidad en su servicio favorito de streaming Spotify.
 Haciendo una exhaustiva investigación de campo se encontró que existen numerosos tipos de música cristiana en español como: Rock cristiano, pop, hip hop, ska, merengue, cumbia y mariachi.
 Con la finalidad de atender las necesidades de dicho mercado se procede a hacer el tren de pruebas para definir la oportunidad de negocio.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+![cristianospotify](https://user-images.githubusercontent.com/32877064/40892518-ee5bc442-675d-11e8-9baa-72440496ab64.png)
 
-**MAPA DE EMPATÍA**
-
-El mapa de empatía, es una poderosa herramienta para realizar una adecuada segmentación de nuestros clientes, con el objetivo de identificar realmente las características que nos permitirán realizar un mejor ajuste entre nuestro servicio y sus necesidades o intereses. Se trata, de conocer las siguientes variables:
-
-- Qué ve: cuál es su entorno y cómo es; qué amistades posee; qué propuestas le ofrece ya el mercado…
-- Qué dice y hace; cuál es su actitud en público, qué aspecto tiene; cómo se comporta, qué contradicciones tiene…
-° Qué oye: qué dicen (o le dicen) sus amistades, su familia, su personal, sus jefes o jefas, las * personas influyentes de su entorno; a través de qué canales multimedia le llega la información…
-- Qué piensa y siente: qué es lo que realmente le importa; cuáles son sus principales preocupaciones, inquietudes, sueños y aspiraciones.
- A partir de estas cuatro se obtienen otras dos:
-
-- Cuáles son los esfuerzos que realiza: a qué le tiene miedo; cuáles son las barreras y obstáculos que se encuentra para obtener lo que desea; con qué riesgos se tropieza en su camino y debe asumir; qué esfuerzos o riesgos no asumirá…
-- Cuáles son los resultados, los beneficios que espera obtener: cuáles son sus necesidades o deseos reales; cómo mide el éxito, en función de qué; cómo podría alcanzar sus objetivos.
-![empathyspotify](https://user-images.githubusercontent.com/32877064/40892520-f379ce10-675d-11e8-82c9-5e22fdd0191c.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **CREACION DE USER PERSONA**
@@ -63,6 +46,22 @@ La plantilla es apenas una sugerencia, pero recoge la mayor parte de las ideas i
 
 ![javier conteras](https://user-images.githubusercontent.com/32877064/40892521-fc0d1ec4-675d-11e8-8093-401c1b1e3b85.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**MAPA DE EMPATÍA**
+
+El mapa de empatía, es una poderosa herramienta para realizar una adecuada segmentación de nuestros clientes, con el objetivo de identificar realmente las características que nos permitirán realizar un mejor ajuste entre nuestro servicio y sus necesidades o intereses. Se trata, de conocer las siguientes variables:
+
+- Qué ve: cuál es su entorno y cómo es; qué amistades posee; qué propuestas le ofrece ya el mercado…
+- Qué dice y hace; cuál es su actitud en público, qué aspecto tiene; cómo se comporta, qué contradicciones tiene…
+° Qué oye: qué dicen (o le dicen) sus amistades, su familia, su personal, sus jefes o jefas, las * personas influyentes de su entorno; a través de qué canales multimedia le llega la información…
+- Qué piensa y siente: qué es lo que realmente le importa; cuáles son sus principales preocupaciones, inquietudes, sueños y aspiraciones.
+ A partir de estas cuatro se obtienen otras dos:
+
+- Cuáles son los esfuerzos que realiza: a qué le tiene miedo; cuáles son las barreras y obstáculos que se encuentra para obtener lo que desea; con qué riesgos se tropieza en su camino y debe asumir; qué esfuerzos o riesgos no asumirá…
+- Cuáles son los resultados, los beneficios que espera obtener: cuáles son sus necesidades o deseos reales; cómo mide el éxito, en función de qué; cómo podría alcanzar sus objetivos.
+
+![empathyspotify](https://user-images.githubusercontent.com/32877064/40904305-ec172702-679f-11e8-8223-59dd244bacf5.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **JOURNEY MAP**
@@ -75,18 +74,24 @@ De la misma manera, podemos establecer el punto final, tan lejos como queramos, 
 
 En cualquier caso, lo importante es seleccionar el marco donde poder estudiar al cliente y conocer las partes del proceso que le generan mayor valor, así como las que no le aportan nada.
 
-![stcpablo](https://user-images.githubusercontent.com/32877064/37888960-6362a8ae-3087-11e8-93ed-01f8dccfb6a4.png)
+![joyrneyspotify](https://user-images.githubusercontent.com/32877064/40904307-ee405bc0-679f-11e8-8484-87f7db10ce25.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **SMART**
 
 Con nuestras propuestas de soluciones reelaboramos el planteamiento de los objetivos smart que nos llevaran a situaciones donde pudieramos medir los resultados de nuestra propuesta de forma real y especifica.
 
-![smart](https://user-images.githubusercontent.com/32877064/37888543-49366cba-3085-11e8-938b-6f344702b6ae.png)
+![smartspotify](https://user-images.githubusercontent.com/32877064/40904335-0c9eedfc-67a0-11e8-95b9-7247ad562f62.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**CONCLUSIONES**
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **METODOLOGÍAS EMPLEADAS PARA OBTENER INFORMACION SOBRE LA OPORTUNIDAD DE NEGOCIOS PARA UNA AUDIENCIA POCO ATENDIDA POR SPOTIFY**
 
@@ -100,6 +105,3 @@ CREACION DE JOURNEY MAP
 CREACION DE OBJETIVOS SMART
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-![cristianospotify](https://user-images.githubusercontent.com/32877064/40892518-ee5bc442-675d-11e8-9baa-72440496ab64.png)
