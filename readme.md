@@ -5,7 +5,7 @@
 OBJETIVO Elige una audiencia poco atendida por Spotify, sugiere cómo podrían mejorar su oferta para éste grupo.
 --------------------------------------
 **ELABORADO POR**
-- Tania Dalila Sosa Ramírez.
+Tania Dalila Sosa Ramírez.
 UX DESIGNER
 
 Laboratoria Mexico 2018
@@ -55,7 +55,7 @@ El mapa de empatía, es una poderosa herramienta para realizar una adecuada segm
 
 - Qué ve: cuál es su entorno y cómo es; qué amistades posee; qué propuestas le ofrece ya el mercado…
 - Qué dice y hace; cuál es su actitud en público, qué aspecto tiene; cómo se comporta, qué contradicciones tiene…
-° Qué oye: qué dicen (o le dicen) sus amistades, su familia, su personal, sus jefes o jefas, las * personas influyentes de su entorno; a través de qué canales multimedia le llega la información…
+- Qué oye: qué dicen (o le dicen) sus amistades, su familia, su personal, sus jefes o jefas, las * personas influyentes de su entorno; a través de qué canales multimedia le llega la información…
 - Qué piensa y siente: qué es lo que realmente le importa; cuáles son sus principales preocupaciones, inquietudes, sueños y aspiraciones.
  A partir de estas cuatro se obtienen otras dos:
 
@@ -100,11 +100,17 @@ Por parte del consumidor se detectó que éste sector de la población es mayori
 - Para lograr una buena promoción se sugiere acercarse a los jóvenes de la comunidad cristiana, ya que ellos reconocen rápidamente a su artistas favoritos.
 
 - Se sugieren los siguientes influencers como portavoces:
+
 Fermín IV (Ex- integrante de Control Machete) Pastor semilla de mostaza México. Género HIP-HOP.
+
 Pepe Grela (Ex- integrante de Antidoping) Pastor Punto de Encuentro México. Género SKA.
+
 Carlos Erazo (GTG Youtuber latino-cristiano con mas de 525.482 suscriptores) Género RAP- TRAP.
+
 Marcela Gándara (Cantante mexicana con 6 álbumes cristianos y 2 premios ARPA) Género POP.
+
 Eva Luna Montaner (Cantante Juvenil Venezolana, actualmente participa con su papá Ricardo Montaner en su fundación" La ventana de los cielos") Genero POP.
+
 Tercer Cielo (Juan Carlos Rodríguez y Evelyn Herrera, originarios de República Dominicana) Género: pop, contemporánea y cristiana evangélica.
 
 - Se sugiere la creación de una interfaz exclusiva para la difusión de material musical de categoría cristiana, el cual sea posible de activar dando click en la pantalla principal y solo muestre dicho contenido, ésto con la intención de hacer un filtro y así la comunidad cristiana no tenga que interactuar con contenido que vaya en contra de sus creencias y/o necesidades y a la vez cumpla el objetivo de protección parental impidiendo que los menores se vean expuestos a contenidos no aptos para ellos.  
@@ -114,12 +120,20 @@ Tercer Cielo (Juan Carlos Rodríguez y Evelyn Herrera, originarios de República
 **METODOLOGÍAS EMPLEADAS PARA OBTENER INFORMACION SOBRE LA OPORTUNIDAD DE NEGOCIOS PARA UNA AUDIENCIA POCO ATENDIDA POR SPOTIFY**
 
 INVESTIGACIÓN DE GABINETE
+
+
 SESIÓN DE ENTREVISTA A NIVEL GRUPAL CON JOVENES ASISTENTES A LA CONGREGACION SEMILLA DE MOSTAZA
+
 SESIÓN DE ENTREVISTA UNO A UNO A SERVIDORES ASISTENTES A LA CONGREGACION SEMILLA DE MOSTAZA
+
 CREACION DE BUSINESS MODEL CANVAS (SPOTIFY)
+
 CREACION DE MAPA DE EMPATÍA
+
 CREACION DE USER PERSONA (JAVIER CONTRERAS)
+
 CREACION DE JOURNEY MAP
+
 CREACION DE OBJETIVOS SMART
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
