@@ -2,14 +2,14 @@
 --------------------------------------
 # PROYECTO: RETO UX 2
 
-OBJETIVO Elige una audiencia poca atendida por Spotify. Sugiere cómo podrían mejorar su oferta para este grupo.
+OBJETIVO Elige una audiencia poco atendida por Spotify, sugiere cómo podrían mejorar su oferta para éste grupo.
 --------------------------------------
 **ELABORADO POR**
 - Tania Dalila Sosa Ramírez.
 UX DESIGNER
 
 Laboratoria Mexico 2018
-5ta generación
+5ta generación.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -30,6 +30,7 @@ Haciendo una exhaustiva investigación de campo se encontró que existen numeros
 Con la finalidad de atender las necesidades de dicho mercado se procede a hacer el tren de pruebas para definir la oportunidad de negocio.
 
 ![cristianospotify](https://user-images.githubusercontent.com/32877064/40892518-ee5bc442-675d-11e8-9baa-72440496ab64.png)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -80,7 +81,7 @@ En cualquier caso, lo importante es seleccionar el marco donde poder estudiar al
 
 **SMART**
 
-Con nuestras propuestas de soluciones reelaboramos el planteamiento de los objetivos smart que nos llevaran a situaciones donde pudieramos medir los resultados de nuestra propuesta de forma real y especifica.
+Con nuestras propuestas de soluciones reelaboramos el planteamiento de los objetivos smart que nos llevaran a situaciones donde pudiésemos medir los resultados de nuestra propuesta de forma real y específica.
 
 ![smartspotify](https://user-images.githubusercontent.com/32877064/40904335-0c9eedfc-67a0-11e8-95b9-7247ad562f62.png)
 
@@ -90,6 +91,23 @@ Con nuestras propuestas de soluciones reelaboramos el planteamiento de los objet
 
 **CONCLUSIONES**
 
+- La comunidad Cristiana en México es reservada, pero numerosa, lo cual hace posible que se haga un acercamiento a éste grupo de consumidores para conocer que  intérpretes les gustaría escuchar en la plataforma de Spotify.
+Por el lado de los interpretes, ellos están en búsqueda constante para que su música sea difundida ampliamente, para así llevar su mensaje a todo tipo de personas, de hecho la mayoría de sus presentaciones son de tipo filántropicas (ofrecen conciertos gratuitos en Reclusorios, comunidades remotas y lugares con población en situación vulnerable).  
+
+- Es viable técnicamente ya que la música que le gustaría escuchar a éste sector, ya se encuentra digitalizada, solo falta hacer el acercamiento por parte de Spotify con los artistas para llegar a un acuerdo acerca de las tasas a pagar por la reproducción de su música.
+Por parte del consumidor se detectó que éste sector de la población es mayoritariamente de clase media a Alta y tienen solvencia económica suficiente para adquirir una membresía tipo PREMIUM, la cual no han adquirido al no encontrar su música favorita en Spotify.
+
+- Para lograr una buena promoción se sugiere acercarse a los jóvenes de la comunidad cristiana, ya que ellos reconocen rápidamente a su artistas favoritos.
+
+- Se sugieren los siguientes influencers como portavoces:
+Fermín IV (Ex- integrante de Control Machete) Pastor semilla de mostaza México. Género HIP-HOP.
+Pepe Grela (Ex- integrante de Antidoping) Pastor Punto de Encuentro México. Género SKA.
+Carlos Erazo (GTG Youtuber latino-cristiano con mas de 525.482 suscriptores) Género RAP- TRAP.
+Marcela Gándara (Cantante mexicana con 6 álbumes cristianos y 2 premios ARPA) Género POP.
+Eva Luna Montaner (Cantante Juvenil Venezolana, actualmente participa con su papá Ricardo Montaner en su fundación" La ventana de los cielos") Genero POP.
+Tercer Cielo (Juan Carlos Rodríguez y Evelyn Herrera, originarios de República Dominicana) Género: pop, contemporánea y cristiana evangélica.
+
+- Se sugiere la creación de una interfaz exclusiva para la difusión de material musical de categoría cristiana, el cual sea posible de activar dando click en la pantalla principal y solo muestre dicho contenido, ésto con la intención de hacer un filtro y así la comunidad cristiana no tenga que interactuar con contenido que vaya en contra de sus creencias y/o necesidades y a la vez cumpla el objetivo de protección parental impidiendo que los menores se vean expuestos a contenidos no aptos para ellos.  
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
