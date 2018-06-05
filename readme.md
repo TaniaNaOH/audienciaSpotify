@@ -11,7 +11,6 @@ UX DESIGNER
 Laboratoria Mexico 2018
 5ta generación.
 
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
  **OPORTUNIDAD DE NEGOCIO**
@@ -75,15 +74,13 @@ De la misma manera, podemos establecer el punto final, tan lejos como queramos, 
 
 En cualquier caso, lo importante es seleccionar el marco donde poder estudiar al cliente y conocer las partes del proceso que le generan mayor valor, así como las que no le aportan nada.
 
-![joyrneyspotify](https://user-images.githubusercontent.com/32877064/40904307-ee405bc0-679f-11e8-8484-87f7db10ce25.png)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **SMART**
 
 Con nuestras propuestas de soluciones reelaboramos el planteamiento de los objetivos smart que nos llevaran a situaciones donde pudiésemos medir los resultados de nuestra propuesta de forma real y específica.
 
-![smartspotify](https://user-images.githubusercontent.com/32877064/40904335-0c9eedfc-67a0-11e8-95b9-7247ad562f62.png)
+![smartspotify](https://user-images.githubusercontent.com/32877064/40951425-8e5eb754-683c-11e8-9b24-68500c21c066.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
